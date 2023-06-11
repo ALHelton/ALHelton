@@ -32,31 +32,42 @@ Design
 
 </div><br><br>
 
-<!-- <h3 align="center">
+<h3 align="center">
 Featured Projects
 </h3>
-
+<!-- 
 <div>
+  
   <h5>HelpList</h5>
-<!--   <img width="200" alt="1" src="https://github.com/ALHelton/ALHelton/assets/116662742/b46cf826-d6cd-4c54-9f11-614321cc25ae"> -->
-<!--   [![A mushroom-head robot](/assets/images/codey.jpg 'Codey the Codecademy mascot')](https://codecademy.com) -->
+<img width="200" alt="1" src="https://github.com/ALHelton/ALHelton/assets/116662742/b46cf826-d6cd-4c54-9f11-614321cc25ae">
+[![A mushroom-head robot](/assets/images/codey.jpg 'Codey the Codecademy mascot')](https://codecademy.com)
 
-<!-- </div><br><br> -->
-<!--
-**ALHelton/ALHelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div><br><br>
+ -->
+ 
+ <table><tr><td valign="top" width="33%">
 
-Here are some ideas to get you started:
+  
+<h5 align="center">HelpList</h5>  
+<div align="center">  
+ 
+</div>
+</td><td valign="top" width="33%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+
+<h5 align="center">Viewing Party</h5>
+<div align="center">  
+  
+</div>
+</td><td valign="top" width="33%">
+
+  
+
+<h5 align="center">LynkUp</h5>  
+<div align="center">
+</div>  
+  
 
 <!--
 **ALHelton/ALHelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
