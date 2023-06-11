@@ -38,7 +38,8 @@ Featured Projects
 
 <div>
   <h5>HelpList</h5>
-  <img width="200" alt="1" src="https://github.com/ALHelton/ALHelton/assets/116662742/b46cf826-d6cd-4c54-9f11-614321cc25ae">
+<!--   <img width="200" alt="1" src="https://github.com/ALHelton/ALHelton/assets/116662742/b46cf826-d6cd-4c54-9f11-614321cc25ae"> -->
+<!--   [![A mushroom-head robot](/assets/images/codey.jpg 'Codey the Codecademy mascot')](https://codecademy.com) -->
 
 </div><br><br>
 <!--
