@@ -48,12 +48,11 @@ Featured Projects
  <table><tr><td valign="top" width="33%">
 
   
-<h4 align="center">
+<h3 align="center">
   
 [HelpList](https://helplist.herokuapp.com/)
   
-</h4>
-
+</h3>
 <div align="center">
   
 [BE Repo](https://github.com/HelpListCrew/HelpListBE)  |  [FE Repo](https://github.com/HelpListCrew/HelpListFE)
@@ -69,7 +68,7 @@ Featured Projects
 
 
 
-<h5 align="center">Viewing Party</h5>
+<h3 align="center">Viewing Party</h3>
 <div align="center">  
   
 </div>
@@ -77,7 +76,7 @@ Featured Projects
 
   
 
-<h5 align="center">LynkUp</h5>  
+<h3 align="center">LynkUp</h3>  
 <div align="center">
 </div>  
   
