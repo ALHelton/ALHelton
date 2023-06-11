@@ -54,13 +54,12 @@ Featured Projects
   
 </h4>
 
-<h5 align="center">
+<div align="center">
   
 [BE Repo](https://github.com/HelpListCrew/HelpListBE)
- 
 [FE Repo](https://github.com/HelpListCrew/HelpListFE)
   
-</h5>
+</div>
   
  <br>
 <div align="center">  
