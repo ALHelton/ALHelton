@@ -57,11 +57,13 @@ Featured Projects
   
 [BE Repo](https://github.com/HelpListCrew/HelpListBE)  |  [FE Repo](https://github.com/HelpListCrew/HelpListFE)
   
+![github helplist image](https://github.com/ALHelton/ALHelton/assets/116662742/3174eab0-4ab7-410e-95c6-002e3bc2da32)
+
 </div>
   
  <br>
 <div align="center">  
- <img width="775" alt="1" src="https://github.com/ALHelton/ALHelton/assets/116662742/f81edb93-6ca4-4006-be68-21642478fafb">
+
 
 </div>
 </td><td valign="top" width="33%">
@@ -71,6 +73,8 @@ Featured Projects
 <h3 align="center">Viewing Party</h3>
 <div align="center">  
   
+![Viewing Party](https://github.com/ALHelton/ALHelton/assets/116662742/bbb27154-8ab7-459b-afdf-637545298d1b)
+  
 </div>
 </td><td valign="top" width="33%">
 
@@ -78,6 +82,9 @@ Featured Projects
 
 <h3 align="center">LynkUp</h3>  
 <div align="center">
+
+![LynkUp](https://github.com/ALHelton/ALHelton/assets/116662742/fd84a252-523c-4f28-a95a-57d3e05a2f54)
+
 </div>  
   
 
