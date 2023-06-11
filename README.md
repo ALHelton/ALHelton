@@ -48,11 +48,18 @@ Featured Projects
  <table><tr><td valign="top" width="33%">
 
   
+<h4 align="center">
+  
+[HelpList](https://helplist.herokuapp.com/)
+  
+</h4>
+
 <h5 align="center">
+[BE Repo](https://github.com/HelpListCrew/HelpListBE)
+[FE Repo](https://github.com/HelpListCrew/HelpListFE)
+</h5>
   
-[HelpList](https://helplist.herokuapp.com/))
-  
-</h5>  
+ <br>
 <div align="center">  
  <img width="775" alt="1" src="https://github.com/ALHelton/ALHelton/assets/116662742/f81edb93-6ca4-4006-be68-21642478fafb">
 
