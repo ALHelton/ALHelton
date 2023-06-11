@@ -50,7 +50,7 @@ Featured Projects
   
 <h5 align="center">
   
-  [HelpList]([https://website-name.com](https://helplist.herokuapp.com/))
+[HelpList](https://helplist.herokuapp.com/))
   
 </h5>  
 <div align="center">  
