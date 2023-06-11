@@ -56,8 +56,7 @@ Featured Projects
 
 <div align="center">
   
-[BE Repo](https://github.com/HelpListCrew/HelpListBE)
-[FE Repo](https://github.com/HelpListCrew/HelpListFE)
+[BE Repo](https://github.com/HelpListCrew/HelpListBE)  |  [FE Repo](https://github.com/HelpListCrew/HelpListFE)
   
 </div>
   
