@@ -32,7 +32,15 @@ Design
 
 </div><br><br>
 
+<h3 align="center">
+Featured Projects
+</h3>
 
+<div>
+  <h5>HelpList</h5>
+  <img width="200" alt="1" src="https://github.com/ALHelton/ALHelton/assets/116662742/b46cf826-d6cd-4c54-9f11-614321cc25ae">
+
+</div><br><br>
 <!--
 **ALHelton/ALHelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
