@@ -21,14 +21,6 @@
   <br>
  <br>
 </div><br>
- 
-
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALHelton&show_icons=true&theme=calm)
-
-</div>
-<br>
 
 <h3 align="center">
 Backend Skills
@@ -117,6 +109,13 @@ Featured Projects
 
 </div>
 </table>
+<br>
+ 
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALHelton&show_icons=true&theme=calm)
+
+</div>
 <br>
   
 
