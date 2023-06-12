@@ -18,7 +18,6 @@
  <br>
  Backend Software Certificate 2023
 
-  <br>
  <br>
 </div><br>
 
