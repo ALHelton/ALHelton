@@ -70,8 +70,14 @@ Featured Projects
 
 
 
-<h3 align="center">Viewing Party</h3>
-<div align="center">  
+<h3 align="center">
+  
+[Viewing Party](https://viewing-party-matar-helton.herokuapp.com/)
+
+</h3>
+<div align="center">
+
+[Repo](https://github.com/ALHelton/viewing_party_lite_7)
   
 ![Viewing Party](https://github.com/ALHelton/ALHelton/assets/116662742/bbb27154-8ab7-459b-afdf-637545298d1b)
   
@@ -80,8 +86,14 @@ Featured Projects
 
   
 
-<h3 align="center">LynkUp</h3>  
+<h3 align="center">
+
+[Repo](https://lynk-up-client.vercel.app/dashboard)
+  
+</h3>  
 <div align="center">
+ 
+[Repo](https://github.com/LYNK-UP-APP/lynk-up-server)
 
 ![LynkUp](https://github.com/ALHelton/ALHelton/assets/116662742/fd84a252-523c-4f28-a95a-57d3e05a2f54)
 
