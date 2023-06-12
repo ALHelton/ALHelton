@@ -9,7 +9,9 @@
 <div align="center">
 ✨ I am a Software Developer with a background in visual arts and education ✨
  <br>
-  Working with Ruby & Ruby on Rails and Learning Javascript
+  Working with Ruby & Ruby on Rails
+ <br>
+ Learning Javascript
  <br>
  <br>
 🎓 Turing School of Software & Design | Backend Software Certificate 2023 🎓 
