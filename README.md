@@ -14,7 +14,9 @@
  Learning Javascript
  <br>
  <br>
-🎓 Turing School of Software & Design | Backend Software Certificate 2023 🎓 
+🎓 Turing School of Software & Design 🎓
+ <br>
+ Backend Software Certificate 2023
 
   <br>
  <br>
