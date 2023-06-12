@@ -6,11 +6,13 @@
 </div><br><br>
 
 <div align="center">
-I am a Software Developer with a background in visual arts and nonprofit art education
+✨ I am a Software Developer with a background in visual arts and education ✨ 
  <br>
-~Working with Ruby & Ruby on Rails ~
+🎓 Graduate of Turing School of Software & Design 🎓
+  <br>
+🔭 Working with Ruby & Ruby on Rails 🔭
  <br>
-~ Learning Javascript ~
+🌱 Learning Javascript 🌱
 </div><br>
  
 <div align="center">
