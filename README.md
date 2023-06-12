@@ -4,12 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CA6644&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Andra!;Welcome+to+my+Github!)](https://git.io/typing-svg)
   
 </div><br><br>
- 
-<div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALHelton&show_icons=true&theme=calm)
-
-</div>
 
 <br />
 
@@ -98,7 +92,14 @@ Featured Projects
 
 ![LynkUp](https://github.com/ALHelton/ALHelton/assets/116662742/fd84a252-523c-4f28-a95a-57d3e05a2f54)
 
-</div>  
+</div>
+<br>
+
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALHelton&show_icons=true&theme=calm)
+
+</div>
   
 
 <!--
