@@ -9,7 +9,7 @@
 ✨ I am a Software Developer with a background in visual arts and education ✨
  <br>
  <br>
-🎓 Graduate of Turing School of Software & Design 🎓 
+🎓 Turing School of Software & Design | Backend Software Certificate 2023 🎓 
   <br>
 🌱 Working with Ruby & Ruby on Rails and Learning Javascript 🌱
  <br>
