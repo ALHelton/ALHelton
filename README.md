@@ -11,6 +11,7 @@
  <br>
 🎓 Turing School of Software & Design | Backend Software Certificate 2023 🎓 
   <br>
+  <br>
 🌱 Working with Ruby & Ruby on Rails and Learning Javascript 🌱
  <br>
 </div><br>
