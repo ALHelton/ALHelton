@@ -57,6 +57,8 @@ Featured Projects
   
 [BE Repo](https://github.com/HelpListCrew/HelpListBE)  |  [FE Repo](https://github.com/HelpListCrew/HelpListFE)
   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="10" height="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="10" height="10"/>
+  
 ![github helplist image](https://github.com/ALHelton/ALHelton/assets/116662742/791e6da2-d757-4ad9-a8f4-c81d08d7714e)
 
 </div>
@@ -79,6 +81,8 @@ Featured Projects
 
 [Repo](https://github.com/ALHelton/viewing_party_lite_7)
   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="10" height="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="10" height="10"/>
+  
 ![Viewing Party](https://github.com/ALHelton/ALHelton/assets/116662742/e515ce60-1074-41d8-9579-9230841d60d8)
 
   
@@ -89,12 +93,15 @@ Featured Projects
 
 <h3 align="center">
 
-[Repo](https://lynk-up-client.vercel.app/dashboard)
+[LynkUp](https://lynk-up-client.vercel.app/dashboard)
   
 </h3>  
 <div align="center">
  
 [Repo](https://github.com/LYNK-UP-APP/lynk-up-server)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="10" height="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="10" height="10"/>
+
 
 ![LynkUp](https://github.com/ALHelton/ALHelton/assets/116662742/fd84a252-523c-4f28-a95a-57d3e05a2f54)
 
