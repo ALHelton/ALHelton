@@ -57,7 +57,7 @@ Featured Projects
   
 [BE Repo](https://github.com/HelpListCrew/HelpListBE)  |  [FE Repo](https://github.com/HelpListCrew/HelpListFE)
   
-![github helplist image](https://github.com/ALHelton/ALHelton/assets/116662742/3174eab0-4ab7-410e-95c6-002e3bc2da32)
+![github helplist image](https://github.com/ALHelton/ALHelton/assets/116662742/791e6da2-d757-4ad9-a8f4-c81d08d7714e)
 
 </div>
   
