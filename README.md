@@ -7,7 +7,9 @@
 
 <div align="center">
 I am a Software Developer with a background in visual arts and nonprofit art education
-~ Working with Ruby & Ruby on Rails ~
+ <br>
+~Working with Ruby & Ruby on Rails ~
+ <br>
 ~ Learning Javascript ~
 </div><br>
  
