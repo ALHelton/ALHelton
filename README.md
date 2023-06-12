@@ -3,10 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CA6644&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Andra!;Welcome+to+my+Github!)](https://git.io/typing-svg)
   
-</div><br><br>
+</div>
 
 <div align="center">
 ✨ I am a Software Developer with a background in visual arts and education ✨ 
+ <br>
  <br>
 🎓 Graduate of Turing School of Software & Design 🎓
   <br>
