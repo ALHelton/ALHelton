@@ -79,7 +79,8 @@ Featured Projects
 
 [Repo](https://github.com/ALHelton/viewing_party_lite_7)
   
-![Viewing Party](https://github.com/ALHelton/ALHelton/assets/116662742/9aba3098-bf59-402a-a1ca-56a86221fb9a)
+![Viewing Party](https://github.com/ALHelton/ALHelton/assets/116662742/e515ce60-1074-41d8-9579-9230841d60d8)
+
   
 </div>
 </td><td valign="top" width="33%">
