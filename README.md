@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-✨ I am a Software Developer with a background in visual arts and education ✨
+✨ I am a Software Developer with a background in visual arts ✨
  <br>
   Working with Ruby & Ruby on Rails
  <br>
