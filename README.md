@@ -2,7 +2,8 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CA6644&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Andra!;Welcome+to+my+Github!)](https://git.io/typing-svg)
-  
+
+
 </div>
 
 <div align="center">
@@ -17,13 +18,13 @@
  <br>
 </div><br>
  
+
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALHelton&show_icons=true&theme=calm)
 
 </div>
-
-<br />
+<br>
 
 <h3 align="center">
 Backend Skills
@@ -44,31 +45,76 @@ Design
 
 </div><br><br>
 
-<!-- <h3 align="center">
+<h3 align="center">
 Featured Projects
 </h3>
-
+<!-- 
 <div>
+  
   <h5>HelpList</h5>
-<!--   <img width="200" alt="1" src="https://github.com/ALHelton/ALHelton/assets/116662742/b46cf826-d6cd-4c54-9f11-614321cc25ae"> -->
-<!--   [![A mushroom-head robot](/assets/images/codey.jpg 'Codey the Codecademy mascot')](https://codecademy.com) -->
+<img width="200" alt="1" src="https://github.com/ALHelton/ALHelton/assets/116662742/b46cf826-d6cd-4c54-9f11-614321cc25ae">
+[![A mushroom-head robot](/assets/images/codey.jpg 'Codey the Codecademy mascot')](https://codecademy.com)
 
-<!-- </div><br><br> -->
-<!--
-**ALHelton/ALHelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div><br><br>
+ -->
+ 
+ <table><tr><td valign="top" width="33%">
 
-Here are some ideas to get you started:
+  
+<h3 align="center">
+  
+[HelpList](https://helplist.herokuapp.com/)
+  
+</h3>
+<div align="center">
+  
+[BE Repo](https://github.com/HelpListCrew/HelpListBE)  |  [FE Repo](https://github.com/HelpListCrew/HelpListFE)
+  
+![github helplist image](https://github.com/ALHelton/ALHelton/assets/116662742/791e6da2-d757-4ad9-a8f4-c81d08d7714e)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+  
+ <br>
+<div align="center">  
 
+
+</div>
+</td><td valign="top" width="33%">
+
+
+
+<h3 align="center">
+  
+[Viewing Party](https://viewing-party-matar-helton.herokuapp.com/)
+
+</h3>
+<div align="center">
+
+[Repo](https://github.com/ALHelton/viewing_party_lite_7)
+  
+![Viewing Party](https://github.com/ALHelton/ALHelton/assets/116662742/e515ce60-1074-41d8-9579-9230841d60d8)
+
+  
+</div>
+</td><td valign="top" width="33%">
+
+  
+
+<h3 align="center">
+
+[LynkUp](https://lynk-up-client.vercel.app/dashboard)
+  
+</h3>  
+<div align="center">
+ 
+[Repo](https://github.com/LYNK-UP-APP/lynk-up-server)
+
+![LynkUp](https://github.com/ALHelton/ALHelton/assets/116662742/fd84a252-523c-4f28-a95a-57d3e05a2f54)
+
+</div>
+</table>
+<br>
+  
 
 <!--
 **ALHelton/ALHelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
