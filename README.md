@@ -115,6 +115,7 @@ Featured Projects
  
 <div align="center">
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALHelton&show_icons=true&theme=calm)
 
 </div>
 <br>
