@@ -99,7 +99,7 @@ Featured Projects
 
 <h3 align="center">
 
-[LynkUp](https://lynk-up-client.vercel.app/dashboard)
+[LynkUp](https://github.com/LYNK-UP-APP/lynk-up-server)
   
 </h3>  
 <div align="center">
