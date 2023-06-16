@@ -11,7 +11,7 @@
  <br>
   Working with Ruby & Ruby on Rails
  <br>
- Learning Javascript
+ Learning Python / Django
  <br>
  <br>
 🎓 Turing School of Software & Design 🎓
