@@ -31,8 +31,8 @@ Backend Skills
 
  </div>
 <details>
-<summary>
-<h3 align="center">
+<summary align="center">
+<h3>
 Learning
 </h3>
 </summary>
