@@ -110,7 +110,7 @@ Featured Projects
  <br>
  <br>
  A platform for creating and managing friend groups and events
- 
+ <br>
  FE Stack: 
  <br>
  <br>
