@@ -108,9 +108,8 @@ Featured Projects
 
 ![LynkUp](https://github.com/ALHelton/ALHelton/assets/116662742/fd84a252-523c-4f28-a95a-57d3e05a2f54)
 <br>
- FE Stack:
- <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="60" height="60" /> 
+ FE Stack:  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="40" height="40" /> 
  
  BE Stack:
  
