@@ -107,7 +107,13 @@ Featured Projects
 [My Repos](https://github.com/orgs/LynkAppVersion2/repositories) (in-progress) | [Group Repo](https://github.com/LYNK-UP-APP/lynk-up-server)
 
 ![LynkUp](https://github.com/ALHelton/ALHelton/assets/116662742/fd84a252-523c-4f28-a95a-57d3e05a2f54)
-
+<br>
+ FE Stack:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="60" height="60" /> 
+ 
+ BE Stack:
+ 
+ 
 </div>
 </table>
 <br>
