@@ -108,10 +108,9 @@ Featured Projects
 
 ![LynkUp](https://github.com/ALHelton/ALHelton/assets/116662742/fd84a252-523c-4f28-a95a-57d3e05a2f54)
  <br>
+ <br>
  A platform for creating and managing friend groups and events
  
-<br>
-<br>
  FE Stack: 
  <br>
  <br>
