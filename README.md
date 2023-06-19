@@ -39,7 +39,7 @@ Design
 
 </div><br>
 
-<details>
+<!-- <details>
 <summary align="center">
 <h3>
 Learning
@@ -52,7 +52,7 @@ Learning
 
 </div>
 </details>
-<br>
+<br> -->
 
 <h2 align="center">
 Featured Projects
