@@ -52,8 +52,7 @@ Learning
 
 </div><br>
 </details>
-
-<br><br>
+<br>
 
 <h3 align="center">
 Featured Projects
