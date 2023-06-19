@@ -54,9 +54,9 @@ Learning
 </details>
 <br>
 
-<h3 align="center">
+<h2 align="center">
 Featured Projects
-</h3>
+</h2>
 <!-- 
 <div>
   
