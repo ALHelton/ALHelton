@@ -12,6 +12,7 @@
   Working with Ruby & Ruby on Rails
  <br>
  Learning Python & Django
+ Working towards my AWS Cloud Practitioner certification
  <br>
  <br>
 🎓 Turing School of Software & Design 🎓
