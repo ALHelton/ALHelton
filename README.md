@@ -9,7 +9,7 @@
 <div align="center">
 ✨ I am a Software Developer with a background in visual arts ✨
  <br>
-  Working with Ruby & Ruby on Rails
+ Specialized in Ruby on Rails
  <br>
  Learning Python & Django
  <br>
