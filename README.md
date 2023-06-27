@@ -12,6 +12,7 @@
   Working with Ruby & Ruby on Rails
  <br>
  Learning Python & Django
+ <br>
  Working towards my AWS Cloud Practitioner certification
  <br>
  <br>
