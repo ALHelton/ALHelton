@@ -11,6 +11,8 @@
  <br>
  Specialized in Ruby on Rails
  <br>
+ Learning JavaScript
+ <br>
  Working towards my AWS Cloud Practitioner certification
  <br>
  <br>
