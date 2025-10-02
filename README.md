@@ -25,7 +25,7 @@
 
 ---
 
-<h3 align="center">🛠️ Backend Skills</h3>
+<h3 align="center">🛠️ Stack Experience</h3>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="60" height="60" alt="Golang"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" alt="Python"/>
