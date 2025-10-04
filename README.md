@@ -1,15 +1,8 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CA6644&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Andra!;Welcome+to+my+Github!)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 Software Engineer
-
+    <img src="https://github.com/user-attachments/assets/ca644bbe-7fdd-4595-9bf7-b399d240fe30" width="300" style="vertical-align: middle;" />
+  
+  ### 💻 Software Engineer
+  
 </div>
 
 ---
