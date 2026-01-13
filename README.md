@@ -1,37 +1,33 @@
 <div align="center">
     <img src="https://github.com/user-attachments/assets/ca644bbe-7fdd-4595-9bf7-b399d240fe30" width="300" style="vertical-align: middle;" />
   
-  ### 💻 Software Engineer
-  
-</div>
-
----
-
-<div align="center">
-
-### 🎓 Education
-**Turing School of Software & Design**  
-2023 Backend Software Engineering Certificate
-
-<!-- </div>
-
 ---
 
 <h3 align="center">🛠️ Stack Experience</h3>
+
+<br>
+
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="60" height="60" alt="Golang"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="60" height="60" alt="Vue.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="60" height="60" alt="Ruby"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="60" height="60" alt="Rails"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" width="60" height="60" alt="RSpec"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="60" alt="PostgreSQL"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="60" height="60" alt="Heroku"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" width="60" height="60" alt="CircleCI"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60" alt="Git"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60" alt="GitHub"/>
-</div> -->
+
+<a href="https://go.dev/doc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="85" height="85" alt="Golang" style="margin: 15px;"/></a>
+<a href="https://www.python.org/doc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="85" height="85" alt="Python" style="margin: 15px;"/></a>
+<a href="https://www.postgresql.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="85" height="85" alt="PostgreSQL" style="margin: 15px;"/></a>
+
+<br><div style="margin-top: -10px;"></div>
+<a href="https://www.ruby-lang.org/en/documentation/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="45" height="45" alt="Ruby" style="margin: 8px;"/></a>
+<a href="https://guides.rubyonrails.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="45" height="45" alt="Rails" style="margin: 8px;"/></a>
+<a href="https://rspec.info/documentation/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" width="45" height="45" alt="RSpec" style="margin: 8px;"/></a>
+<a href="https://docs.pytest.org/en/stable/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="45" height="45" alt="pytest" style="margin: 8px;"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" style="margin: 8px;"/></a>
+<a href="https://vuejs.org/guide/introduction.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="45" height="45" alt="Vue.js" style="margin: 8px;"/></a>
+<a href="https://www.typescriptlang.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" style="margin: 8px;"/></a>
+<a href="https://redis.io/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="45" height="45" alt="Redis" style="margin: 8px;"/></a>
+<a href="https://www.docker.com/get-started/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker" style="margin: 8px;"/></a>
+<a href="https://docs.github.com/en/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" height="45" alt="GitHub Actions" style="margin: 8px;"/></a>
+<a href="https://circleci.com/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg" width="45" height="45" alt="CircleCI" style="margin: 8px;"/></a>
+<a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="45" height="45" alt="Git" style="margin: 8px;"/></a>
+
+</div>
 
 ---
 
